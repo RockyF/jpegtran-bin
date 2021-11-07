@@ -1,10 +1,9 @@
 {
-  "name": "jpegtran-bin",
-  "version": "6.0.0",
+  "name": "jpegtran-bin-cn",
+  "version": "6.0.6",
   "description": "jpegtran (part of libjpeg-turbo) bin-wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "imagemin/jpegtran-bin",
-  "type": "module",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
